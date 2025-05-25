@@ -5,7 +5,9 @@ The very first demo of RL.
 
 ## models
 two models have been uploaded
+
 model250 had been trained for 250 episodes
+
 model470 had been trained for another 180 episodes(using model250), although the result is almost the same.
 
 ## results
