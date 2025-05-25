@@ -3,7 +3,14 @@ a reproduction: creating an agent using PPO to play super-mario
 
 The very first demo of RL. 
 
+## details
+an example of process bar when training
+
 ![image](https://github.com/user-attachments/assets/f25877d6-548c-4ff6-9bc9-8e4a9df7595e)
+
+a test on the network that had been trained for 250 episodes
+
+https://github.com/user-attachments/assets/f29b0f25-0977-42cd-9068-6de722846756
 
 
 ## reference
