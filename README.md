@@ -8,7 +8,7 @@ The very first demo of RL.
 
 ppo_mario_critic_250 had been trained for 250 episodes
 
-ppo_mario_critic_470 had been trained for another 180 episodes(based on model250), although the result is almost the same.
+ppo_mario_critic_470 had been trained for another 220 episodes(based on model250), although the result is almost the same.
 
 ppo_mario_critic_400 had been trained for another 180 episodes(based on model250), adding a reward to encourage jumping(the aciton 'A').
 
